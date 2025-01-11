@@ -3,7 +3,7 @@
 
 MODULE_LICENSE("GPL")
 MODULE_AUTHOR("Siddique")
-MODULE_DESCRIPTION("A Hello world LKM")
+MODULE_DESCRIPTION("A SIMPLE HELLO LINUX KERNEL MODULE")
 
 /*
  * @brief This function is called when the module is loaded into the kernel
